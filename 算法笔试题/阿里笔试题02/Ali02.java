@@ -1,3 +1,4 @@
+package Problem02;
 import java.util.Scanner;
 public class Ali02 {
 
@@ -61,7 +62,10 @@ public class Ali02 {
             System.out.println(t[i]);
         }
         for (i = 1; i < M +1;i++) {
-            System.out.print(f[i]  );
+            System.out.print(f[i] );
+            if(i<M) {
+                System.out.print(" ");
+            }
         }
 
     }
