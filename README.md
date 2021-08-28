@@ -1,14 +1,13 @@
-<h1 align="center">算法学习（笔试题）</h1>  
+<h1 align="center">算法学习</h1>  
 <h3 align="center">贡献者：</h1>  
 
 
 &#8195; &#8195; &#8195;&#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195;&#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ![Partner](https://img.shields.io/badge/Boy:-xhwhht-red.svg?colorA=48D1CC) ![Partner](https://img.shields.io/badge/Girl:-Trista--lover%20-orange.svg?colorA=FFB6C1)  
 
 ## 简介：
-大多来自leetcode和各大公司如字节、阿里、百度、腾讯、微软和网易等笔试题目。  
+大多来自leetcode和互联网上其他算法题目。  
 文件夹里分别有题目描述和代码（目前是java语言）  
-
-__笔试题目文件夹里标注岗位是作者通过收集app里参加笔试的应聘者的回忆版题目__  
+ 
 ## 提交说明:
 * 欢迎各位fork补充，并一起学习打卡。  
 * 你可以提交任何学习算法中的代码和想法  
