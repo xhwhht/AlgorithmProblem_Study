@@ -2,7 +2,7 @@
 <h3 align="center">贡献者：</h1>  
 
 
-&#8195;&#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195;&#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ![Partner](https://img.shields.io/badge/Boy:-xhwhht-red.svg?colorA=48D1CC) ![Partner](https://img.shields.io/badge/Girl:-Trista--lover%20-orange.svg?colorA=FFB6C1)  
+&#8195;&#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195;&#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ![Partner](https://img.shields.io/badge/Boy:-xhwhht-red.svg?colorA=48D1CC) ![Partner](https://img.shields.io/badge/Girl:-Trista--lover%20-orange.svg?colorA=FFB6C1)  
 
 ## 简介：
 题目大多来自leetcode和互联网上公开的笔试题目。（目前是java语言）   
