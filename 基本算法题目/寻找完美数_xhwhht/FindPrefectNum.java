@@ -5,10 +5,7 @@ import java.util.Scanner;
 public class FindPrefectNum {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
-
-
         int  M, pref, FinSum;
-
         int[] sum = new int[2];
 
         M = cin.nextInt();                      //输入测试的组数
