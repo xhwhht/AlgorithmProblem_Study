@@ -17,13 +17,13 @@
 ## :tada:
 <div align="center">
   
-|   date      |  thing      |  Completion status&emotion              |name     |
-|  :----:     |   ---:      | :----                                   | :----   |
-| 2021.8.20   |  :memo:     | :sleepy:                                |  xhwhht |
+|   date      |  thing      |  Completion status&emotion               |name     |
+|  :----:     |   ---:      | :----                                    | :----   |
+| 2021.8.20   |  :memo:     | :sleepy:                                 |  xhwhht |
 | 2021.8.21   |  :memo:     |  :white_check_mark: :worried:            |xhwhht   |
-| 2021.8.22   |  :memo:     | :heavy_multiplication_x: :disappointed: |xhwhht   |
-| 2021.8.26   |  :memo:     | :bug:  :sun_with_face:                  | xhwhht  |
+| 2021.8.22   |  :memo:     | :heavy_multiplication_x: :disappointed:  |xhwhht   |
+| 2021.8.26   |  :memo:     | :bug:  :sun_with_face:                   | xhwhht  |
 | 2021.9.4    |  :memo:     | :white_check_mark: :sunglasses:          | xhwhht  |
-  
+| 2021.9.9    |  :memo:     | :white_check_mark:      :dizzy_face:     | xhwhht  |  
  <div>
 
