@@ -53,7 +53,7 @@ public class Main {
                 if (a[j][k] == 0)
                     continue;
                 System.out.println("新的位置：");
-                // 8个方向检查
+                // 8个方向检查 但是只需有右下方向前进即可
                 if (j + 1 < n && a[j + 1][k] == 1)
                     dus.union(j * (m) + k, (j + 1) * (m) + k);               
                 if (k + 1 < m && a[j][k + 1] == 1)
