@@ -5,7 +5,7 @@
 &#8195; &#8195; &#8195; &#8195; &#8195;&#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ![Partner](https://img.shields.io/badge/Boy:-xhwhht-red.svg?colorA=48D1CC) ![Partner](https://img.shields.io/badge/Girl:-Trista--lover%20-orange.svg?colorA=FFB6C1)  
 
 ## 简介：
-题目大多来自leetcode和互联网上公开的笔试题目。（目前是java语言）   
+题目大多来自leetcode和互联网上公开的笔试题目。（目前是java/c++）   
 学习算法的一些想法  
  
 ## 提交说明:
