@@ -13,7 +13,7 @@ __排序 O(n)+数组下标连续__
 
 2.计数排序 :创建一个大小为number.size()的数组count把数填到对应的下标位置 。  
 &ensp; 时间复杂度 __O(n)__ 空间复杂度 __O(n)__ 
-&ensp; `count[10001]={0}   vector<int> or cont(number.size(),0)`  
+&ensp; `count[10001]={0}   vector<int> or (number.size(),0)`  
 &ensp; 普通数组不支持输入一个变量来分配空间， 注意一定要初始化为0！！!  
 &ensp; 此方法当n很大时空间复杂度较差
 
