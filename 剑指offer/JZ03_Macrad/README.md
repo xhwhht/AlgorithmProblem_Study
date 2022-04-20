@@ -13,9 +13,14 @@ __排序 O(n)+数组下标连续__
 
 2.计数排序 :创建一个大小为number.size()的数组count把数填到对应的下标位置 。  
 &ensp; 时间复杂度 __O(n)__ 空间复杂度 __O(n)__ 
-&ensp; `count[10001]={0}   vector<int> or (number.size(),0)`  
-&ensp; 普通数组不支持输入一个变量来分配空间， 注意一定要初始化为0！！!  
-&ensp; 此方法当n很大时空间复杂度较差
+&ensp; 此方法当n很大时空间复杂度较差  
+  
+普通数组不支持输入一个变量来分配空间(vector支持)， 注意一定要初始化为0！！!  
+> 1.count[10001]={0}   
+> 3.输入n &ensp; <vector> int count(n) -> count(n,0)  or  count={0}  
+> 3.memset(count, 0, sizeof(count))      
+> &ensp;用memset给一个数组初始化为0、-1或一个很大的数，但是不要用memset函数来赋具体的值。
+
 
 3.C++ 创建类通过类调用函数如`Test.Fun(&var) `这样传的是地址,地址是常量所以Fun函数输入参数必须是const修饰。  
  &ensp; 传引用是在定义函数时候体现，对引用理解不透彻！！！class必须是在main前声明
