@@ -6,7 +6,7 @@
 
 ## 简介：
 题目大多来自leetcode和互联网上公开的笔试题目。（目前是java/c++）   
-学习算法的一些想法  
+学习算法的一些想法/c++知识点 
  
 ## 提交说明:
 * 欢迎各位fork补充，并一起学习打卡。  
@@ -25,6 +25,7 @@
 | 2021.8.26   |  :memo:     | :bug:  :sun_with_face:                   | MacRad  |
 | 2021.9.4    |  :memo:     | :white_check_mark: :sunglasses:          | MacRad  |
 | 2021.9.9    |  :memo:     | :white_check_mark:      :dizzy_face:     | MacRad  |  
-| 2022.4.12    |  :memo:    | :white_check_mark:      :satisfied:      | MacRad  |  
+| 2022.4.12    |  :memo:    | :white_check_mark:      :satisfied:      | MacRad  | 
+| 2022.4.20    |  :memo:    | :white_check_mark:      :facepunch:      | MacRad  |  
  <div>
 
