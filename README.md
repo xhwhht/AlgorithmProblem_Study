@@ -28,5 +28,6 @@
 | 2021.9.9    |  :memo:     | :white_check_mark:      :dizzy_face:     | MacRad  |  
 | 2022.4.12    |  :memo:    | :white_check_mark:      :satisfied:      | MacRad  | 
 | 2022.4.20    |  :memo:    | :white_check_mark:      :facepunch:      | MacRad  |  
+| 2022.4.24    |  :memo:    | :white_check_mark:      :facepunch:      | MacRad  |
  <div>
 
