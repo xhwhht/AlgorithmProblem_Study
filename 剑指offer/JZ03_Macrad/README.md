@@ -16,10 +16,11 @@ __排序 O(n)+数组下标连续__
 &ensp; 此方法当n很大时空间复杂度较差  
   
 普通数组不支持输入一个变量来分配空间(vector支持)， 注意一定要初始化为0！！!  
-> 1.count[10001]={0}   
-> 3.输入n &ensp; <vector> int count(n) -> count(n,0)  or  count={0}  
+> 1.int count[10001]={0}   
+> 2.输入n->  vector < int > count(n) -> count(n,0)  or  count={0}  
 > 3.memset(count, 0, sizeof(count))      
-> &ensp;用memset给一个数组初始化为0、-1或一个很大的数，但是不要用memset函数来赋具体的值。
+> &ensp;用memset给一个数组初始化为0、-1或一个很大的数，但是不要用memset函数来赋具体的值。  
+> 4. 普通的字符数组 char a[10]={"abdc"} 初始化后五位用'\0'填充。
 
 
 3.C++ 创建类通过类调用函数如`Test.Fun(&var) `这样传的是地址,地址是常量所以Fun函数输入参数必须是const修饰。  
