@@ -18,8 +18,8 @@ __排序 O(n)+数组下标连续__
 普通数组不支持输入一个变量来分配空间(vector支持)， 注意一定要初始化为0！！!  
 > 1.int count[10001]={0} 只对数组有效   
 > 2.输入n->  vector < int > count(n) -> count(n,0) (不可以用push_back此时将会在n后边添加元素)    nums.reserve(a > 128 ? 128 : a);
-> 3.memset(count, 0, sizeof(count)) &ensp; &ensp; 如果count为char不需要sizeof  &ensp; &ensp;__不要对vector 使用__      
-> &ensp;用memset给一个数组初始化为0、-1或一个很大的数，但是不要用memset函数来赋具体的值。
+> 3.memset(count, 0, sizeof(count)) &ensp; &ensp; 如果count为char不需要sizeof  &ensp; &ensp;__不要对vector 使用__        
+> &ensp;用memset给一个数组初始化为0、-1或一个很大的数，但是不要用memset函数来赋具体的值。  
 > 4. 普通的字符数组 char a[10]={"abdc"} 初始化后五位用'\0'填充。
 
 
