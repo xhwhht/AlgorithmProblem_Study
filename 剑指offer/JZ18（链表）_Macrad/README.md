@@ -10,5 +10,11 @@
 * 对于头尾节点的处理;
 * 对于图片提到的内存泄漏 可以通过将指针指向NULL解决以及及时的delete，但是确保你的指针是否开辟空间以及指向的位置谨慎delete;
 
-
-![image]("https://raw.githubusercontent.com/xhwhht/AlgorithmProblem_Study/main/%E5%89%91%E6%8C%87offer/Image/List.jpg")
+  
+    
+<div align=center>
+ 链表的理解
+</div>
+<div align=center>
+<img src="https://raw.githubusercontent.com/xhwhht/AlgorithmProblem_Study/main/%E5%89%91%E6%8C%87offer/Image/List.jpg" width="800px" alt="链表js">
+</div>
