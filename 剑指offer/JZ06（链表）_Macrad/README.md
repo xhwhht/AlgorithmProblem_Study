@@ -7,8 +7,9 @@
 
 ## 代码相关
 * 链表 其中节点Node Node里放的是Val的地址;
-* Node的地址和Node->next的地址差4(0x60=&(Node) 0x64=&(Node->next))一个节点占8个字节;
+* Node->val地址和Node->next的地址差4(0x60=&(Node) 0x64=&(Node->next))一个节点占8个字节;
 * 判断末尾 遍历链表
+* 前提是有头节点
 > while(p->next!=NULL)  {1.p=p->next 2.取值} 
 >> 不会取头节点的值;  
 >> 如果p!=NULL：就会异常，因为会取NULL的的val，程序会自动结束;   
