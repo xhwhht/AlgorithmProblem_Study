@@ -10,4 +10,5 @@
 * 对于头尾节点的处理;
 * 对于图片提到的内存泄漏 可以通过将指针指向NULL解决以及及时的delete，但是确保你的指针是否开辟空间以及指向的位置谨慎delete;
 
-<img src="https://github.com/xhwhht/AlgorithmProblem_Study/blob/main/%E5%89%91%E6%8C%87offer/Image/List.jp" width = "500" height = "500"  />
+
+![image]("https://github.com/xhwhht/AlgorithmProblem_Study/blob/main/%E5%89%91%E6%8C%87offer/Image/List.jpg")
