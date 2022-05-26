@@ -30,5 +30,6 @@
 | 2022.4.20    |  :memo:    | :white_check_mark:      :facepunch:      | MacRad  |  
 | 2022.4.24    |  :memo:    | :white_check_mark:      :facepunch:      | MacRad  |
 | 2022.5.25    |  :memo:    | :white_check_mark:   :white_check_mark:     :facepunch:      | MacRad  |
+| 2022.5.26    |  :memo:    | :white_check_mark:     :facepunch:      | MacRad  |
  <div>
 
