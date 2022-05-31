@@ -54,7 +54,7 @@ public:
 int main()
 {
 	ListNode* beforeHead = new ListNode(-1);
-	ListNode* cur, *head;
+	ListNode* cur;
 	cur = beforeHead;
 
 	int n, val;
@@ -67,6 +67,7 @@ int main()
 		cur->next = newNode;
 		cur = newNode;
 	}
+	ListNode* head;
 	head = beforeHead->next;
 	delete beforeHead;
 
