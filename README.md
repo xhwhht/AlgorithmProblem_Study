@@ -30,9 +30,10 @@
 | 2022.4.12    |  :memo:    | :white_check_mark:      :satisfied:      | MacRad  | 
 | 2022.4.20    |  :memo:    | :white_check_mark:      :facepunch:      | MacRad  |  
 | 2022.4.24    |  :memo:    | :white_check_mark:      :facepunch:      | MacRad  |
-| 2022.5.25    |  :memo:    | :white_check_mark:   :white_check_mark:     :facepunch:      | MacRad  |
+| 2022.5.25    |  :memo:    | :white_check_mark:   :white_check_mark:     :facepunch:  | MacRad  |
 | 2022.5.26    |  :memo:    | :white_check_mark:     :facepunch:      | MacRad  |
 | 2022.5.30    |  :memo:    | :white_check_mark:  :white_check_mark:   :confused:      | MacRad  |
 | 2022.5.31    |  :memo:    | :white_check_mark:  :white_check_mark:   :confused:      | MacRad  |
+| 2022.6.6     |  :memo:    | :white_check_mark:  :white_check_mark:   :neutral_face:  | MacRad  |
  <div>
 
