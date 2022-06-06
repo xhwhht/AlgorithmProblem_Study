@@ -20,7 +20,7 @@
 <div align="center">
   
 |   date      |  thing      |  Completion status&emotion               |name     |
-|  :----:     |   ---:      | :----                                    | :----   |
+|  :----     |   ---:       | :----:                                   | :----   |
 | 2021.8.20   |  :memo:     | :sleepy:                                 |  MacRad |
 | 2021.8.21   |  :memo:     |  :white_check_mark: :worried:            |MacRad   |
 | 2021.8.22   |  :memo:     | :heavy_multiplication_x: :disappointed:  |MacRad   |
