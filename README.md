@@ -23,8 +23,8 @@
 |  :----     |   ---:       | :----:                                   | :----   |
 | 2021.8.20   |  :memo:     | :sleepy:                                 |  MacRad |
 | 2021.8.21   |  :memo:     |  :white_check_mark: :worried:            |MacRad   |
-| 2021.8.22   |  :memo:     | :heavy_multiplication_x: :disappointed:  |MacRad   |
-| 2021.8.26   |  :memo:     | :bug:  :sun_with_face:                   | MacRad  |
+| 2021.8.22   |  :heavy_multiplication_x:     |  :disappointed:  |MacRad   |
+| 2021.8.26   | :bug:     |   :sun_with_face:                   | MacRad  |
 | 2021.9.4    |  :memo:     | :white_check_mark: :sunglasses:          | MacRad  |
 | 2021.9.9    |  :memo:     | :white_check_mark:      :dizzy_face:     | MacRad  |  
 | 2022.4.12    |  :memo:    | :white_check_mark:      :satisfied:      | MacRad  | 
@@ -35,5 +35,6 @@
 | 2022.5.30    |  :memo:    | :white_check_mark:  :white_check_mark:   :confused:      | MacRad  |
 | 2022.5.31    |  :memo:    | :white_check_mark:  :white_check_mark:   :confused:      | MacRad  |
 | 2022.6.6     |  :memo:    | :white_check_mark:  :white_check_mark:   :neutral_face:  | MacRad  |
+| 2022.6.7     |  :memo:    | :white_check_mark:     :sweat_smile:  | MacRad  |
  <div>
 
