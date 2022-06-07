@@ -70,7 +70,7 @@ nowcoder
 * 复制字符串  
 >int i = str.find(",",0);     
   v.push_back(str.substr(0,i));     
-* 本题目不可以用上提方法 因为cin会把逗号读走，如果用上提的方法cin.get不会和cin交替读他只能读到一个回车
+* 本题目不可以用上述方法 因为cin会把逗号读走，如果用上述的方法cin.get不会和cin交替读他只能读到一个回车
 - - -
  <div align="center">  
  各个类型所占的字节
