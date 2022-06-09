@@ -29,7 +29,7 @@
 ## 上传日志 :tada:  
 <div align="center">
   
-|   date      |  thing      |  Completion status&emotion               |name     |
+|   Date      |  Thing      |  Completion status&Emotion               |Name     |
 |  :----     |   ---:       | :----:                                   | :----   |
 | 2021.8.20   |  :memo:     | :sleepy:                                 |  MacRad |
 | 2021.8.21   |  :memo:     |  :white_check_mark: :worried:            |MacRad   |
