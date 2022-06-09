@@ -12,7 +12,7 @@
 动画形式展示leetcode解法：https://github.com/MisterBooo/LeetCodeAnimation  
 labuladong算法小抄:https://github.com/labuladong/fucking-algorithm  
 C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统等:https://github.com/huihut/interview  
-技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计(java):https://github.com/CyC2018/CS-Notes
+技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:https://github.com/CyC2018/CS-Notes
      
 汇总各大互联网公司容易考察的高频leetcode题: https://github.com/afatcoder/LeetcodeTop    
 2020届笔试面试题目汇总: https://github.com/liwan-cn/recruit-2020    
