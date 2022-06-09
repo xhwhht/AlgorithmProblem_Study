@@ -38,4 +38,4 @@ public:
 		head = map[head];
 		return head;
 	}
-};
+}; 
