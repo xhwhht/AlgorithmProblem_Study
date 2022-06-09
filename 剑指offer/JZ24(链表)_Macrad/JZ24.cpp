@@ -62,22 +62,3 @@ int main()
 		res = res->next;
 	}
 }
-/*
-  ListNode* reverseList(ListNode* head) {
-	ListNode* behind=head;
-	ListNode* before=NULL;
-	ListNode* cur;
-	while(behind)
-	{
-		cur=behind;
-		behind=cur->next;
-		cur->next=before;
-		before=cur;
-	}
-	head=before;
-	behind=nullptr;
-	cur=nullptr;
-	before=nullptr;        //可直接返回before
-	return head;
-	}         
-*/
