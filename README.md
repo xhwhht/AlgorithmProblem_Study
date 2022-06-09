@@ -6,13 +6,17 @@
 
 ## 简介：
 * 题目大多来自leetcode和互联网上公开的笔试题目。（目前是主要是c++，__大部分是ACM模式可本地调试__）   
-* 学习算法的一些想法和c++知识点 
-* 其他学习资料   
+* 学习算法的一些想法和c++知识点  
+
+## 学习资料:    
 > 动画形式展示leetcode解法：https://github.com/MisterBooo/LeetCodeAnimation  
 > labuladong算法小抄:https://github.com/labuladong/fucking-algorithm  
 > C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统等:https://github.com/huihut/interview  
-> 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计(java):https://github.com/CyC2018/CS-Notes  
-> 汇总各大互联网公司容易考察的高频leetcode题: https://github.com/afatcoder/LeetcodeTop  
+> 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计(java):https://github.com/CyC2018/CS-Notes
+>   
+> 汇总各大互联网公司容易考察的高频leetcode题: https://github.com/afatcoder/LeetcodeTop    
+>2020届笔试面试题目汇总: https://github.com/liwan-cn/recruit-2020    
+>银行笔试面试经验分享及资料分享:https://github.com/sty945/bank_interview  
  
 ## 提交说明:
 * 欢迎各位fork补充，一起体验如何参与一个项目。  
