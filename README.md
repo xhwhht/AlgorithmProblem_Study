@@ -46,5 +46,6 @@ C++ 技术面试基础知识总结，包括语言、程序库、数据结构、�
 | 2022.5.31    |  :memo:    | :white_check_mark:  :white_check_mark:   :confused:      | MacRad  |
 | 2022.6.6     |  :memo:    | :white_check_mark:  :white_check_mark:   :neutral_face:  | MacRad  |
 | 2022.6.7     |  :memo:    | :white_check_mark:     :sweat_smile:  | MacRad  |
+| 2022.6.9     |  :memo:    | :white_check_mark:     :smirk:  | MacRad  |
  <div>
 
