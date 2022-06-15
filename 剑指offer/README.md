@@ -9,7 +9,7 @@
 |                          | 35. 复杂链表的复制   :white_check_mark:                    |
  **字符串**    |                 05. 替换空格     :white_check_mark:      |
 |                   | 58 - II. 左旋转字符串  :white_check_mark:                   |
-|            |  20. 表示数值的字符串             |
+|            |  20. 表示数值的字符串    :white_check_mark         |
 |            | 67. 把字符串转换成整数            |
 | **查找算法**   | 03. 数组中重复的数字   :white_check_mark:           |  
 |            |  53 - I. 在排序数组中查找数字 I   |  
