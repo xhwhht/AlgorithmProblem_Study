@@ -3,7 +3,7 @@
 |    **栈与队列**           |  09. 用两个栈实现队列        :white_check_mark:           |    
 |                          |     30.  包含 min 函数的栈    :white_check_mark:          |  
 |            | 59 - I. 滑动窗口的最大值     :white_check_mark:    |
-|            |  59 - II. 队列的最大值            |
+|            |  59 - II. 队列的最大值          :white_check_mark:    |
 |           **链表**        |  06. 从尾到头打印链表    :white_check_mark:             |
 |                          | 24. 反转链表         :white_check_mark:                  |
 |                          | 35. 复杂链表的复制   :white_check_mark:                    |
