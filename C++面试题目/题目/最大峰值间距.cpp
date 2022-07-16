@@ -10,7 +10,7 @@ eg：1 1----> 2
 using namespace std;
 int main () {
 	
-	vector<int>blocks{ 1,2,2,3,4,4,4,3,3,3,2};
+	vector<int>blocks{ 1,2,2,3,4,4,4,3,3,3,2 };
 
 	int len = blocks.size(),res=1,upFlag=1,equal, max_res=0,equal_res=1;
 	if (1 == len)  return 1;
@@ -35,7 +35,7 @@ int main () {
 			{
 				upFlag = 0;
 				max_res = max(res,max_res);
-				res = equal_res;               //保存第i个峰值的数据（如果值一样的峰值）
+				res = equal_res+1;               //保存第i个峰值的数据（如果值一样的峰值） PS 需要+1因为计算到下一个区间
 			}
 		}
 		else  //当前处于非严格递减的序列
@@ -45,12 +45,12 @@ int main () {
 			else
 			{
 				upFlag = 1;
-				res++;
+				res++;         //需要++
 			}
 		}
 	    
 	}
 
-	res= max(res + 1, max_res); //res+1 为整个区间最后一段满足条件的区块
+	res= max(res , max_res); //res为整个区间最后一段满足条件的区块
 	cout << res;
 }
